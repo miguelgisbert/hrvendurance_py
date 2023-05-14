@@ -1,0 +1,7 @@
+.navbar { background-color: #18A7AD; }
+
+.navbar .navbar-nav .nav-link { color: #FEFCE6; }
+
+.navbar .navbar-nav .nav-link.active { font-weight: 500; }
+
+.navbar svg { max-height: 40px; width: auto; margin: 15px 2em; }
